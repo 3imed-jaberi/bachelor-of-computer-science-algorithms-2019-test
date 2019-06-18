@@ -1,7 +1,7 @@
-# BAC INFO - ALGORITHMS & PROGRAMMING 
+# BACHELOR OF COMPUTER SCIENCE - ALGORITHMS & PROGRAMMING TEST
 ###### 2018-2019
 ---
-## This is my correction code of the 'problem exercice' in Bachelor National Test 💯 ..
+## This is my correction code of the test 💯 ( Bachelor National Test 🇹🇳 )  ..
 
 ## What technologies that i used ?
  - Pascal / Object Pascal 
