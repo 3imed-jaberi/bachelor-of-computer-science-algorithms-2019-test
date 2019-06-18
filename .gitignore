@@ -1,0 +1,8 @@
+
+# ignore file.o ( instance object file - compiler )  .. 
+src/bac.o
+review/bac.o 
+
+# ignore file.exe ( in same drectory ) 
+src/bac.exe
+
